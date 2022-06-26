@@ -2,4 +2,4 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on engineering
-- 📫 How to reach me ? Here claudiu.9994@gmail.com
+- 📫 How to reach me ? Claudiu Costea on LinkedIn U.P.T.
